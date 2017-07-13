@@ -1,0 +1,30 @@
+===
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+It helped in that I didn't have to trawl through lines of code to see what was
+different.
+
+===
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+Whenever I make a change that breaks the program I could go back a step, if it's
+proving too complicated to suss out manually.
+===
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+Sometimes it's best, for organizational purposes, if your code is split up into
+multiple files; sometimes it has to be in multiple files.
+===
+How might using version control make you more confident to make changes that
+could break something?
+
+You know you can revert back easily to a state where the program is working, so
+you're free to branch out in new commits.
+===
+Now that you have your workspace set up, what do you want to try using Git for?
+
+Version control, and keeping an up to date GitHub account so that all future
+employers will be like: "Wow! what a nice GitHub".
