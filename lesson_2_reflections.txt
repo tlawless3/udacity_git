@@ -1,0 +1,46 @@
+===
+What happens when you initialize a repository? Why do you need to do it?
+
+It creates a file to hold all of the other files in. You need it to have a place
+to store the repository.
+
+===
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+
+It allows you to double check your work before you commit it to the repository,
+you can make sure you're doing exactly what you want to do.
+
+===
+How can you use the staging area to make sure you have one commit per logical
+change?
+
+You can use git diff without any arguments and double check that what you're
+doing is what you want to do.
+
+===
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+
+There were a few examples in the lecture, but if you want to make a change that
+is more of a spinoff than a main addition(e.g. Frasier would logically be a
+branch off of cheers).
+
+===
+How do the diagrams help you visualize the branch structure?
+
+
+
+===
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+
+
+
+===
+What are the pros and cons of Git's automatic merging vs. always doing merges
+manually?
+
+
+
+===
