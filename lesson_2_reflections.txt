@@ -29,7 +29,9 @@ branch off of cheers).
 ===
 How do the diagrams help you visualize the branch structure?
 
-
+They especially help in the understanding of what's accessible. I wasn't
+thinking of branches as being objects that point to the head from which it
+"branched".
 
 ===
 What is the result of merging two branches together? Why do we represent it in
